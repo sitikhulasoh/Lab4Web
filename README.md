@@ -15,7 +15,4 @@
 7. Menambahkan feature dan ukuran gambar pada feature layout tersebut.
 ![7 (2)](https://user-images.githubusercontent.com/56240533/115361604-ef0da480-a1ea-11eb-812b-67ec3d7b5a6e.png)
 
-## tugas !
-1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
-2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
 
