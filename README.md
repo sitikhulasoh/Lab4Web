@@ -1,4 +1,9 @@
 # Lab4Web
+
+- Nama  :  Siti khulasoh
+- kelas :  TI.19.A2
+- NIM   :  311910445
+
 ## langkah - langkah  
 1. membuat box element dengan tag class div 1-3  dengan style css untuk warna yang berbeda.
 ![1 (2)](https://user-images.githubusercontent.com/56240533/115361496-d69d8a00-a1ea-11eb-89b6-ce0e28fb6829.png)
