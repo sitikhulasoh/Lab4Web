@@ -1,3 +1,4 @@
+![t3 (2)](https://user-images.githubusercontent.com/56240533/115498332-934d2500-a297-11eb-823f-c596d5959e30.png)
 # Lab4Web
 
 - Nama  :  Siti khulasoh
@@ -14,7 +15,7 @@
 4. kemudian membuat style css didalam folder lab4_layout
 ![4 (2)](https://user-images.githubusercontent.com/56240533/115361567-e74e0000-a1ea-11eb-9771-966c5e6befe7.png)
 5.kemudian membuat hero world dengan menambahkan  kode HTML dan CSS
-![5 (2)](https://user-images.githubusercontent.com/56240533/115361569-e74e0000-a1ea-11eb-81d8-d06bda50ec94.png)
+![5 (2)](https://user-images.githubusercontent.com/56240533/115361569-e74e0000-a1ea-11eb-81d8-d06bda50ec94.png)!
 6. Menambahkan widget pada layout ini dengan nama  widget header dan juga widget text 
 ![6 (2)](https://user-images.githubusercontent.com/56240533/115361592-ecab4a80-a1ea-11eb-856b-8a92c370c25c.png)
 7. Menambahkan feature dan ukuran gambar pada feature layout tersebut.
@@ -24,7 +25,7 @@
 
 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
 
-![tugas1](https://user-images.githubusercontent.com/56240533/115408679-44fa4080-a21b-11eb-875a-d9086c5a12d1.png)
+![t3 (2)](https://user-images.githubusercontent.com/56240533/115498332-934d2500-a297-11eb-823f-c596d5959e30.png)
 
 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
 
