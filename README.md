@@ -1,4 +1,4 @@
-![t3 (2)](https://user-images.githubusercontent.com/56240533/115498332-934d2500-a297-11eb-823f-c596d5959e30.png)
+
 # Lab4Web
 
 - Nama  :  Siti khulasoh
